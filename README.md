@@ -1,5 +1,7 @@
 # Hey, I'm Tanish 👋
 
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,react,fastapi,docker,postgres,linux,git,arduino,opencv,godot,unity)](https://skillicons.dev)
+
 CS student at VIT Chennai. I spend most of my time on LLM/RAG security research and full-stack builds, and the rest of it tinkering — embedded boards, my own PC, and the occasional game in Godot.
 
 ---
@@ -22,12 +24,6 @@ Embedded electronics started as a hobby and never really stopped — I like buil
 - **[Omen-XD-Fan-Control](https://github.com/Tanish-Desai/Omen-XD-Fan-Control)** — Because my laptop's stock fan curve wasn't cutting it
 - **[better-compiler](https://github.com/Tanish-Desai/better-compiler)** — A compiler project I built to actually understand how compilers work under the hood
 - **[portfolio](https://github.com/Tanish-Desai/portfolio)** — My personal site, also linked below
-
----
-
-### Toolbox
-
-Python · C++ · Java · SQL · React · FastAPI · Docker · PostgreSQL/pgvector · Linux
 
 ---
 
